@@ -1,12 +1,6 @@
-## **CoreGPT Chat Integration**  
 
-**Build your own AI-powered chat interface using React and Node.js.**  
 
-![CoreGPT](https://d3erng0hrrd7m4.cloudfront.net/logo.png)  
-
----
-
-## **Project Title: AI Chat with CoreGPT**  
+## **Project Title: AI ChatBot using OpenAI SDK
 
 ### **Description**  
 A fully functional AI-powered chat interface built with **React, Tailwind CSS, and Node.js** that interacts with the **ChatGPT API**. With less than 200 lines of code, you can set up a responsive and efficient chatbot for real-time interaction.  
